@@ -1,6 +1,7 @@
-# neural-networks
-Collection of projects created while taking neural networks at Florda Institute of Technology in the Fall of 2020.
+# Neural Networks
+Collection of projects created while taking neural networks course at Florda Institute of Technology in the Fall of 2020.
 
+List of Projects:
 
 * OLS From Scratch
 
